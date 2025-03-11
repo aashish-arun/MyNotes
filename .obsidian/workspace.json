@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4087c5cac0493a4b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6f525b229389f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
         "id": "d48cc793729b9376",
         "type": "tabs",
         "children": [
@@ -31,13 +11,46 @@
             "id": "b0b636ed212e2543",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "768a6855ce20318d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "8f44cc453a926a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "MyNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for MyNotes"
             }
           },
           {
@@ -129,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "MyNotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from MyNotes"
             }
           },
           {
@@ -158,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "MyNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of MyNotes"
             }
           }
         ]
@@ -184,8 +197,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f525b229389f7b",
+  "active": "8f44cc453a926a11",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Frontend Languages/HTML/w3s.md",
+    "MyNotes.md",
+    "Frontend Languages/HTML",
+    "HTML/w3s.md",
+    "HTML",
+    "Backend Languages/cheat sheet.md",
+    "Misc.md",
+    "Version Control/Git & GitHub.md",
+    "Version Control.md",
+    "Miscellaneous.md",
+    "Version Control",
+    "Miscellaneous",
+    "Technologies",
+    "Technologies/Next.js.md",
+    "Technologies.md",
+    "Backend Languages/Java.md",
+    "Backend Languages/C.md",
+    "Backend Languages/C++.md",
+    "Backend Languages/Python.md",
+    "Frontend Languages/JavaScript.md",
+    "Frontend Languages/CSS.md",
+    "Backend Languages",
+    "Frontend Languages/HTML.md",
+    "Backend Languages.md",
+    "Frontend Languages.md",
+    "Projects/Project1.md",
+    "Projects",
+    "Frontend Languages"
   ]
 }
