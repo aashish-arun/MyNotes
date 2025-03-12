@@ -11,7 +11,8 @@
 	[[Java]]
 
 **Technologies**
-	[[Next.js]]
+	 [[Node.js]]
+	 [[Next.js]]
 
 **Version Control**
 	[[Git & GitHub]]

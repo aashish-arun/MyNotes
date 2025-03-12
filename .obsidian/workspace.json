@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0b636ed212e2543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyNotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MyNotes"
-            }
-          },
-          {
-            "id": "768a6855ce20318d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MyNotes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MyNotes"
-            }
-          },
-          {
             "id": "8f44cc453a926a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "dbc8c63c2ef6bda1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,25 +180,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f44cc453a926a11",
+  "active": "619a488af58ee610",
   "lastOpenFiles": [
-    "Frontend Languages/HTML/w3s.md",
+    "Version Control/Git & GitHub.md",
+    "Technologies/Node.js.md",
     "MyNotes.md",
+    "Frontend Languages/HTML/w3s.md",
+    "Version Control/Git & GitHub 1.md",
+    "Technologies/Next.js.md",
+    "Technologies/Node.js.md",
     "Frontend Languages/HTML",
     "HTML/w3s.md",
     "HTML",
     "Backend Languages/cheat sheet.md",
     "Misc.md",
-    "Version Control/Git & GitHub.md",
     "Version Control.md",
     "Miscellaneous.md",
     "Version Control",
     "Miscellaneous",
     "Technologies",
-    "Technologies/Next.js.md",
     "Technologies.md",
     "Backend Languages/Java.md",
     "Backend Languages/C.md",
