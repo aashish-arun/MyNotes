@@ -11,10 +11,11 @@
 	[[Java]]
 
 **Technologies**
-	 [[Node.js]]
-	 [[Next.js]]
+	[[CsNext.js]]
+	[[Node.js]]
 
-**Version Control**
+
+Version Control
 	[[Git & GitHub]]
 
 **Miscellaneous**
