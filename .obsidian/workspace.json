@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MyNotes.md",
+                "file": "Technologies/Next.js.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyNotes"
+              "title": "Next.js"
             }
           }
         ]
@@ -171,6 +171,10 @@
   },
   "active": "6e95af8df2dca3f2",
   "lastOpenFiles": [
+    "Technologies/Node.js.md",
+    "Technologies/React.md",
+    "Version Control/Git & GitHub.md",
+    "MyNotes.md",
     "Technologies/Next.js.md",
     "Backend Languages/Python.md",
     "Backend Languages/Java.md",
@@ -178,13 +182,9 @@
     "Backend Languages/C.md",
     "Cheat sheet/CsNext.js.md",
     "Frontend Languages/HTML.md",
-    "MyNotes.md",
-    "Technologies/React.md",
     "Frontend Languages/CSS.md",
     "Frontend Languages/JavaScript.md",
     "Frontend Languages/HTML/Untitled.md",
-    "Technologies/Node.js.md",
-    "Version Control/Git & GitHub.md",
     "Frontend Languages/w3s.md",
     "Next.js.md",
     "Cheat sheet.md",
