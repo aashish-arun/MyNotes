@@ -3,8 +3,6 @@ Check next.js version (.sh)
 ```
 node -v
 ```
-
-```
 node --version
 ```
 
