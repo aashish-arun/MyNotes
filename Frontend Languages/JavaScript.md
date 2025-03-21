@@ -1,9 +1,9 @@
-
-
-
 ## Variables
-they are containers for storing data. they can be declared  in 4 ways:
-
+They are containers for storing data. they can be declared  in 4 ways:
+- Automatically
+- Using `var`
+- Using `let`
+- Using `const`
 ###### `1. Automatically`
 ```js
 x = 5;  
@@ -16,21 +16,21 @@ It is considered good programming practice to always declare variables before us
 ```
 ###### `2. Using var`
 ```js
-x = 5;  
-y = 6;  
-z = x + y; // x, y, and z are undeclared variables. They are automatically declared when first used.
+var x = 5;  
+var y = 6;  
+var z = x + y; // x, y, and z are declared as variables.
 ```
 ###### `3.  Using let`
 ```js
-x = 5;  
-y = 6;  
-z = x + y; // x, y, and z are undeclared variables. They are automatically declared when first used.
+let x = 5;  
+let y = 6;  
+let z = x + y; // x, y, and z are declared as variables.
 ```
 ###### `4.  Using const
 ```js
-x = 5;  
-y = 6;  
-z = x + y; // x, y, and z are undeclared variables. They are automatically declared when first used.
+const x = 5;  
+const y = 6;  
+const z = x + y; // x, y, and z are declared as variables.
 ```
 
 ## When to Use var, let, or const?
@@ -42,13 +42,13 @@ z = x + y; // x, y, and z are undeclared variables. They are automatically de
 ---
 ## Arrow Function
 It allow us to write shorter function syntax. 
-###### `Example of before arrow:`
+###### `Before arrow:`
 ```js
 hello = function() {  
 	return "Hello World!";  
 }
 ```
-###### `Example of with arrow function:`
+###### `Using arrow function:`
 ```js
 hello = () => {  
   return "Hello World!";  

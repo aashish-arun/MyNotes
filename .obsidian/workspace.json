@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48bc3009b22abd23",
+        "id": "380c580224b7acea",
         "type": "tabs",
         "children": [
           {
-            "id": "6e95af8df2dca3f2",
+            "id": "08b5860357efdf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of MyNotes"
             }
+          },
+          {
+            "id": "b89f4ae772d7ef32",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e95af8df2dca3f2",
+  "active": "08b5860357efdf8e",
   "lastOpenFiles": [
-    "Frontend Languages/JavaScript.md",
     "Technologies/React.md",
-    "Technologies/Next.js.md",
+    "Frontend Languages/JavaScript.md",
+    "Untitled.canvas",
     "Frontend Languages/CSS.md",
-    "Cheat sheet/CsNext.js.md",
     "Frontend Languages/HTML.md",
-    "Technologies/Node.js.md",
-    "Version Control/Git & GitHub.md",
     "MyNotes.md",
+    "Technologies/Node.js.md",
+    "Technologies/Next.js.md",
+    "Cheat sheet/CsNext.js.md",
+    "Version Control/Git & GitHub.md",
     "Backend Languages/Python.md",
     "Backend Languages/Java.md",
     "Backend Languages/C++.md",
@@ -201,7 +212,6 @@
     "HTML",
     "Backend Languages/cheat sheet.md",
     "Misc.md",
-    "Version Control.md",
     "Version Control",
     "Miscellaneous",
     "Technologies",
