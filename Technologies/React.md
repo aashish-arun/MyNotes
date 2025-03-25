@@ -1,5 +1,6 @@
 
 
+##
 ## ES6 (ECMAScript 6)
 ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
 ### Why Should I Learn ES6?
@@ -14,7 +15,7 @@ React uses ES6, and should be familiar with some of the its new features like
 - Spread Operator
 
 ---
-## ES6: Classes
+### ES6: Classes
 A class is a type of function, but instead of using the keyword `function` to initiate it, we use the keyword `class`, and the properties are assigned inside a `constructor()` method.
 ###### `Example of a simple class constructor with an object called "mycar" based on the Car class:`
 ```jsx
@@ -86,7 +87,7 @@ By calling the `super()` method in the constructor method, we call the parent'
 ```
 
 ---
-## ES6: Arrow Functions
+### ES6: Arrow Functions
 It allow us to write shorter function syntax. 
 ###### `Example of before arrow:`
 ```jsx
@@ -183,7 +184,7 @@ The result shows that the first example returns two different objects (window an
 Hence depending on the use choice which one you want to use.
 
 ---
-## ES6: Variables
+### ES6: Variables
 Before ES6, we only had one way to defining `var` keyword and if you didn't define them, they would be assigned to the global object. Unless you were in strict mode, then you would get an error if your variables were undefined.
 
 Now, with ES6, there are three ways of defining your variables as: `var`, `let`, and `const`.
@@ -210,7 +211,8 @@ const x = 5.6;
 | **Can redeclare?** | ✅ Yes                                                                                                                                                                                                                                                                        | ❌ No                                                                                                               | ❌ No                                                                                          |
 | Use case           |                                                                                                                                                                                                                                                                              |                                                                                                                    |                                                                                               |
 
-## ES6: Array Methods
+---
+### ES6: Array Methods
 Out of the many JavaScript array methods, the most useful in React is the `.map()` array method. 
 ### `.map()` method
 The `.map()` method allows you to run a function on each item in the array, returning a new array as the result. In React, `map()` can be used to generate lists.
@@ -223,7 +225,7 @@ const myList = myArray.map((item) => <p>{item}</p>)
 ```
 
 
-## ES6: Destructuring
+### ES6: Destructuring
 It is an easier way to get specific items from a list or properties from a object.
 
 ### Destructuring Arrays
@@ -329,6 +331,144 @@ myVehicle(vehicleOne)
 
 function myVehicle({ model, registration: { state } }) {
   const message = 'My ' + model + ' is registered in ' + state + '.';
+}
+```
+
+
+---
+### ES6: Spread Operator (`...`)
+This operator allows us to quickly copy all or part of an existing array or object into another array or object. It is often used in combination with destructuring.
+
+###### `Example of assigning the first and second items from `numbers` to variables and put the rest in an array:`
+```jsx
+const numbers = [1, 2, 3, 4, 5, 6];
+
+const [one, two, ...rest] = numbers;
+```
+
+###### `Example of assigning the first and second items from `numbers` to variables and put the rest in an array:`
+```jsx
+const numbers = [1, 2, 3, 4, 5, 6];
+
+const [one, two, ...rest] = numbers;
+```
+
+---
+### ES6: Modules
+
+
+---
+### ES6: Ternary Operator
+This is a simplified conditional operator which functions similar to `if` / `else`.
+
+#### `Syntax`
+```jsx
+condition ? <expression if true> : <expression if false>
+```
+
+###### `Example of using if/else to authenticate  (i.e. before ES6) :`
+```jsx
+if (authenticated) {
+  renderApp();
+} else {
+  renderLogin();
+}
+```
+
+###### `Example of using ternary (i.e. after ES6) :`
+```jsx
+authenticated ? renderApp() : renderLogin();
+```
+
+
+## Render HTML
+Goal is (i.e. build) to render HTML in a web page. To render HTML to a web page it uses a function called createRoot() and its method render()
+
+### The createRoot Function
+
+The `createRoot()` function takes one argument, an HTML element.
+
+The purpose of the function is to define the HTML element where a React component should be displayed.
+
+### The render Method
+
+The `render()` method is then called to define the React component that should be rendered.
+
+But render where?
+
+## JavaScript XML (JSX)
+JSX stands for JavaScript XML. It allows us to write and add HTML in react.
+
+### Coding JSX
+It allows us to write HTML elements in JavaScript and place them in the DOM without any `createElement()`  and/or `appendChild()` methods. It converts HTML tags into react elements.
+
+```Note
+You are not required to use JSX, but JSX makes it easier to write React applications.
+```
+
+### Expressions in JSX
+
+### One Top Level Element
+The HTML code must be wrapped in _ONE_ top level element. You can put everything inside a div (`<div></div>`) or fragment  (`<></>`).
+
+###### `Example of wrapping two paragraphs inside one DIV element:`
+```jsx
+const myElement = (
+  <div>
+    <p>I am a paragraph.</p>
+    <p>I am a paragraph too.</p>
+  </div>
+);
+```
+
+```Note
+JSX will throw an error if the HTML is not correct, or if the HTML misses a parent element.
+```
+
+###### `Example of wrapping two paragraphs inside a fragment:`
+```jsx
+const myElement = (
+  <>
+    <p>I am a paragraph.</p>
+    <p>I am a paragraph too.</p>
+  </>
+);
+```
+
+### Elements Must be Closed
+
+## Components
+Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in isolation and return HTML. They are of two types class and function component
+
+```Note
+In older React code bases, you may find Class components primarily used. It is now suggested to use Function components along with Hooks, which were added in React 16.8. There is an optional section on Class components for your reference.
+```
+
+### Create Your First Component
+
+```Note
+Component MUST start with an upper case letter.
+```
+#### Class Component
+
+A class component must include the `extends React.Component` statement and requires a `render()` method. 
+
+This `extends React.Component` statement creates an inheritance to React.Component, and gives your component access to React.Component's functions.
+
+The `render()` method returns HTML.
+###### `Example of a class component called Car:
+```jsx
+class Car extends React.Component {
+  render() {
+    return <h2>Hi, I am a Car!</h2>;
+  }
+}
+```
+
+###### `Example of a fucntion component called Car:
+```jsx
+function Car() {
+  return <h2>Hi, I am a Car!</h2>;
 }
 ```
 

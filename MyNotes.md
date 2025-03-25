@@ -11,7 +11,8 @@
 	[[Java]]
 
 **Technologies**
-	[[CsNext.js]]
+	[[React]]
+	[[Next.js]]
 	[[Node.js]]
 
 
