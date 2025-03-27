@@ -472,3 +472,9 @@ function Car() {
 }
 ```
 
+---
+## Conditionals
+
+1. Using if
+2. Using &&
+3. Using tertary
