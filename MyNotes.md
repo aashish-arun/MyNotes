@@ -20,3 +20,4 @@ Version Control
 	[[Git & GitHub]]
 
 **Miscellaneous**
+	[[Phonetic alphabets]]
