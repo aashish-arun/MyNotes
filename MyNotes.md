@@ -19,5 +19,8 @@
 Version Control
 	[[Git & GitHub]]
 
+Certificates
+	[[CompTIA A+]]
+
 **Miscellaneous**
 	[[Phonetic alphabets]]
