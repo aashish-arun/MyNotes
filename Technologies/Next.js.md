@@ -1,7 +1,7 @@
 
 Site: https://nodejs.org/en
 
-[[CsNext.js]]
+[[NextSheet]]
 
 What is Next.js?
 	It is a React framework for building web applications
