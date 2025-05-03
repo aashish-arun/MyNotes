@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MyNotes.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Cheat sheet/Git & GitHub Cheatsheet.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MyNotes"
+              "title": "Backlinks for Git & GitHub Cheatsheet"
             }
           },
           {
@@ -179,19 +179,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "696f0d40bc4281cf",
+  "active": "6f63ff0558e63b90",
   "lastOpenFiles": [
+    "MyNotes.md",
+    "Version Control/Git & GitHub.md",
+    "Cheat sheet/Git & GitHub Cheatsheet.md",
+    "Frontend Languages/JavaScript.md",
     "Cheat sheet/NextSheet.md",
     "Cheat sheet/Reactsheet.md",
-    "Cheat sheet/Git & GitHub Cheatsheet.md",
-    "Version Control/Git & GitHub.md",
-    "MyNotes.md",
     "Technologies/React.md",
     "Technologies/Node.js.md",
     "Technologies/Next.js.md",
     "Miscellaneous/Phonetic alphabets.md",
     "Library/Tkinter.md",
-    "Frontend Languages/JavaScript.md",
     "Frontend Languages/HTML.md",
     "Frontend Languages/CSS.md",
     "Cheat sheet/CsNext.js.md",

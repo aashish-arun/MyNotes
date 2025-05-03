@@ -102,7 +102,7 @@ git reset --soft HEAD~1
 
 ### Undo Last Commit (and delete its changes)
 ```bash
-git reset --soft HEAD~1
+git reset --hard HEAD~1
 ```
 ---
 ## Git Branching
