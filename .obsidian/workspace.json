@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheat sheet/Git & GitHub Cheatsheet.md",
+                "file": "Version Control/Git & GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git & GitHub Cheatsheet"
+              "title": "Git & GitHub"
+            }
+          },
+          {
+            "id": "18a57861ead52c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "38cd64b326f76322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Certificates/CompTIA A+.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CompTIA A+"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat sheet/Git & GitHub Cheatsheet.md",
+                "file": "Certificates/CompTIA A+.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git & GitHub Cheatsheet"
+              "title": "Outline of CompTIA A+"
             }
           },
           {
@@ -179,39 +208,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f63ff0558e63b90",
+  "active": "38cd64b326f76322",
   "lastOpenFiles": [
-    "MyNotes.md",
-    "Version Control/Git & GitHub.md",
-    "Cheat sheet/Git & GitHub Cheatsheet.md",
-    "Frontend Languages/JavaScript.md",
-    "Cheat sheet/NextSheet.md",
-    "Cheat sheet/Reactsheet.md",
+    "Technologies/Next.js.md",
     "Technologies/React.md",
     "Technologies/Node.js.md",
-    "Technologies/Next.js.md",
-    "Miscellaneous/Phonetic alphabets.md",
-    "Library/Tkinter.md",
-    "Frontend Languages/HTML.md",
-    "Frontend Languages/CSS.md",
-    "Cheat sheet/CsNext.js.md",
-    "Backend Languages/Python.md",
-    "Library",
-    "Certificates/CompTIA A+.md",
-    "Certificates",
-    "Certificates",
     "Backend Languages/Java.md",
-    "Untitled.canvas",
-    "Backend Languages/C++.md",
+    "Backend Languages/Python.md",
     "Backend Languages/C.md",
+    "Frontend Languages/JavaScript.md",
+    "Backend Languages/C++.md",
+    "Library/Tkinter.md",
+    "Library/Pillow.md",
+    "Library/Os.md",
+    "Frontend Languages/CSS.md",
+    "Frontend Languages/HTML.md",
+    "Certificates/CompTIA A+.md",
+    "Cheat sheet/Reactsheet.md",
+    "Cheat sheet/NextSheet.md",
+    "Cheat sheet/Git & GitHub Cheatsheet.md",
+    "MyNotes.md",
+    "Miscellaneous/French.md",
+    "Version Control/Git & GitHub.md",
+    "Miscellaneous/Phonetic alphabets.md",
+    "Cheat sheet/CsNext.js.md",
+    "Library",
+    "Certificates",
+    "Certificates",
+    "Untitled.canvas",
     "Frontend Languages/HTML/Untitled.md",
     "Frontend Languages/w3s.md",
     "Next.js.md",
     "Cheat sheet.md",
     "Cheat sheet",
-    "Technologies/Next.js]-w3s.md",
-    "Technologies/Next.js-freeCodeCamp.md",
-    "Technologies/freeCodeCamp.org.md",
     "Technologies/Node.js",
     "Node.j",
     "Frontend Languages/HTML",

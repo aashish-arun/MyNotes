@@ -1,6 +1,13 @@
 
+## Python Libraries
+### Built-in
+[[Tkinter]]
+[[Os]]
+
+### Third Party
+[[Pillow]]
 
 
-## Library
+## Resources / Study materials referred
 
-### [[Tkinter]]
+

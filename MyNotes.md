@@ -24,4 +24,4 @@ Certificates
 
 **Miscellaneous**
 	[[Phonetic alphabets]]
-	
+	[[French]]
