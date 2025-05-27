@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1101cbd96473b8f",
+        "id": "64fb1fd8849e6a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "696f0d40bc4281cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Version Control/Git & GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git & GitHub"
-            }
-          },
-          {
-            "id": "18a57861ead52c91",
+            "id": "4efe7d72b91e8f65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +22,73 @@
             }
           },
           {
-            "id": "38cd64b326f76322",
+            "id": "98f234fe35799aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Certificates/CompTIA A+.md",
+                "file": "Backend Languages/Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CompTIA A+"
+              "title": "Python"
+            }
+          },
+          {
+            "id": "af93d05c974ec97c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "d85469c42d2c0957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MyNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "22da70a2780b73c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/10001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10001"
+            }
+          },
+          {
+            "id": "deb98787c3ee3795",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificates/CompTIA A+.md",
+                "file": "Courses/10001.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CompTIA A+"
+              "title": "Outline of 10001"
             }
           },
           {
@@ -195,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,44 +246,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38cd64b326f76322",
+  "active": "22da70a2780b73c0",
   "lastOpenFiles": [
-    "Technologies/Next.js.md",
+    "MyNotes.md",
+    "Miscellaneous/Phonetic alphabets.md",
+    "Version Control/Git & GitHub.md",
     "Technologies/React.md",
+    "Technologies/Next.js.md",
     "Technologies/Node.js.md",
-    "Backend Languages/Java.md",
+    "Courses/10001.md",
+    "Courses",
+    "Library/FastAPI.md",
     "Backend Languages/Python.md",
-    "Backend Languages/C.md",
-    "Frontend Languages/JavaScript.md",
-    "Backend Languages/C++.md",
-    "Library/Tkinter.md",
     "Library/Pillow.md",
     "Library/Os.md",
-    "Frontend Languages/CSS.md",
-    "Frontend Languages/HTML.md",
-    "Certificates/CompTIA A+.md",
-    "Cheat sheet/Reactsheet.md",
     "Cheat sheet/NextSheet.md",
+    "Library/Untitled",
     "Cheat sheet/Git & GitHub Cheatsheet.md",
-    "MyNotes.md",
+    "Cheat sheet/Reactsheet.md",
+    "Frontend Languages/HTML.md",
+    "Frontend Languages/JavaScript.md",
+    "Frontend Languages/CSS.md",
+    "Library/Tkinter.md",
+    "Miscellaneous/Driver’s Knowledge Test.md",
     "Miscellaneous/French.md",
-    "Version Control/Git & GitHub.md",
-    "Miscellaneous/Phonetic alphabets.md",
-    "Cheat sheet/CsNext.js.md",
+    "Certificates/CompTIA A+.md",
+    "2025-05-19.md",
+    "Untitled.canvas",
+    "Backend Languages/Java.md",
+    "Backend Languages/C.md",
+    "Backend Languages/C++.md",
     "Library",
     "Certificates",
     "Certificates",
-    "Untitled.canvas",
-    "Frontend Languages/HTML/Untitled.md",
-    "Frontend Languages/w3s.md",
-    "Next.js.md",
-    "Cheat sheet.md",
     "Cheat sheet",
     "Technologies/Node.js",
     "Node.j",
     "Frontend Languages/HTML",
-    "HTML",
-    "Version Control",
-    "Miscellaneous"
+    "HTML"
   ]
 }
