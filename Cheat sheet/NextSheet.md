@@ -7,7 +7,6 @@ node --version
 ```
 
 	shows the current version installed on your device.
-
 ---
 
 Create a next.js project (.sh)
