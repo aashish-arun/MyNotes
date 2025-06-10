@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,14 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faae5ad0c5dfbd8c",
+  "active": "619a488af58ee610",
   "lastOpenFiles": [
-    "Cheat sheet/Reactsheet.md",
-    "Courses/10001.md",
-    "Frontend Languages/CSS.md",
-    "Library/FastAPI.md",
     "Cheat sheet/Git & GitHub Cheatsheet.md",
     "Version Control/Git & GitHub.md",
+    "Courses/10001.md",
+    "Cheat sheet/Reactsheet.md",
+    "Frontend Languages/CSS.md",
+    "Library/FastAPI.md",
     "Backend Languages/Python.md",
     "Backend Languages/C++.md",
     "Backend Languages/C.md",
