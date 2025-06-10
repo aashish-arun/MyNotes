@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a02327aa96ff1a44",
+        "id": "0c673c96e3b5a936",
         "type": "tabs",
         "children": [
           {
-            "id": "faae5ad0c5dfbd8c",
+            "id": "03e33de675494b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,16 +89,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6f63ff0558e63b90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Courses/10001.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10001"
+            }
+          },
+          {
             "id": "65e6c145d4b5017f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "Courses/10001.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -137,21 +152,6 @@
             }
           },
           {
-            "id": "6f63ff0558e63b90",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Courses/10001.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 10001"
-            }
-          },
-          {
             "id": "b89f4ae772d7ef32",
             "type": "leaf",
             "state": {
@@ -161,8 +161,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,13 +178,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "619a488af58ee610",
+  "active": "03e33de675494b51",
   "lastOpenFiles": [
-    "Cheat sheet/Git & GitHub Cheatsheet.md",
-    "Version Control/Git & GitHub.md",
+    "Library/Pillow.md",
+    "Library/Tkinter.md",
+    "Miscellaneous/Phonetic alphabets.md",
+    "Miscellaneous/French.md",
+    "Miscellaneous/Driver’s Knowledge Test.md",
+    "Technologies/Next.js.md",
+    "Technologies/Node.js.md",
+    "Technologies/React.md",
+    "MyNotes.md",
     "Courses/10001.md",
-    "Cheat sheet/Reactsheet.md",
+    "Version Control/Git & GitHub.md",
     "Frontend Languages/CSS.md",
+    "Cheat sheet/Reactsheet.md",
+    "Cheat sheet/Git & GitHub Cheatsheet.md",
     "Library/FastAPI.md",
     "Backend Languages/Python.md",
     "Backend Languages/C++.md",
@@ -193,18 +201,9 @@
     "Backend Languages/Java.md",
     "Certificates/CompTIA A+.md",
     "Cheat sheet/NextSheet.md",
-    "Technologies/React.md",
-    "Technologies/Node.js.md",
-    "Technologies/Next.js.md",
-    "Miscellaneous/Phonetic alphabets.md",
-    "Miscellaneous/Driver’s Knowledge Test.md",
-    "Miscellaneous/French.md",
-    "Library/Tkinter.md",
     "Frontend Languages/HTML.md",
     "Frontend Languages/JavaScript.md",
     "Library/Os.md",
-    "Library/Pillow.md",
-    "MyNotes.md",
     "2025-05-27.md",
     "Untitled.canvas",
     "Courses",

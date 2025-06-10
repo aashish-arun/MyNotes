@@ -1,13 +1,4 @@
 
-
-
-
-
-
-
-
-
-
 # Study plan and materials referred 
 
 ## 🎯 **Beginner Level (A1-A2)**

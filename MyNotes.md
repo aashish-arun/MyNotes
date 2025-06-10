@@ -23,11 +23,11 @@ Certificates
 
 Courses
 
-|  SL No.   |                      Course Title                       | Platfort |  Repo   | Start Date | End Date |
-| :-------: | :-----------------------------------------------------: | :------: | :-----: | :--------: | :------: |
-| [[10001]] | Python FastAPI Tutorial: Build a REST API in 15 Minutes |    YT    | fastapi | 2025-05-27 |          |
-|           |                                                         |          |         |            |          |
-|           |                                                         |          |         |            |          |
+|  SL No.   |                      Course Title                       | Platfort |  Repo   | Start Date |  End Date  |
+| :-------: | :-----------------------------------------------------: | :------: | :-----: | :--------: | :--------: |
+| [[10001]] | Python FastAPI Tutorial: Build a REST API in 15 Minutes |    YT    | fastapi | 2025-05-27 | 2025-06-09 |
+|           |                                                         |          |         |            |            |
+|           |                                                         |          |         |            |            |
 
 **Miscellaneous**
 	[[Phonetic alphabets]]
