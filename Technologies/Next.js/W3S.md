@@ -6,7 +6,7 @@ Site: https://nodejs.org/en
 What is Next.js?
 	It is a React framework for building web applications
 
-What is the difference between Next.js and [[React]]?
+What is the difference between Next.js and [[Technologies/React/W3S]]?
 
 | Feature                     | Next.js 🚀                                                                                                                                      | React ⚛️                                                       |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -40,4 +40,4 @@ Why learn Next,js?
 Prerequisites 
 	[[HTML]], [[CSS]] and [[JavaScript]] fundamentals.
 	ES6 + features
-	[[React]] fundamentals
+	[[Technologies/React/W3S]] fundamentals

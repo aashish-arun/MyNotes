@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03e33de675494b51",
+            "id": "f621f3f3ee8d4b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/10001.md",
+                "file": "MyNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10001"
+              "title": "MyNotes"
+            }
+          },
+          {
+            "id": "669036684cd5bd98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miscellaneous/Life/Principle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Principle"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/10001.md",
+                "file": "Miscellaneous/Life/Principle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10001"
+              "title": "Outline of Principle"
             }
           },
           {
@@ -161,7 +176,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,43 +194,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03e33de675494b51",
+  "active": "619a488af58ee610",
   "lastOpenFiles": [
-    "Library/Pillow.md",
-    "Library/Tkinter.md",
-    "Miscellaneous/Phonetic alphabets.md",
-    "Miscellaneous/French.md",
-    "Miscellaneous/Driver’s Knowledge Test.md",
-    "Technologies/Next.js.md",
-    "Technologies/Node.js.md",
-    "Technologies/React.md",
-    "MyNotes.md",
-    "Courses/10001.md",
-    "Version Control/Git & GitHub.md",
-    "Frontend Languages/CSS.md",
-    "Cheat sheet/Reactsheet.md",
-    "Cheat sheet/Git & GitHub Cheatsheet.md",
-    "Library/FastAPI.md",
-    "Backend Languages/Python.md",
-    "Backend Languages/C++.md",
-    "Backend Languages/C.md",
-    "Backend Languages/Java.md",
-    "Certificates/CompTIA A+.md",
-    "Cheat sheet/NextSheet.md",
-    "Frontend Languages/HTML.md",
-    "Frontend Languages/JavaScript.md",
-    "Library/Os.md",
-    "2025-05-27.md",
-    "Untitled.canvas",
-    "Courses",
-    "Library/Untitled",
-    "Library",
-    "Certificates",
-    "Certificates",
-    "Cheat sheet",
-    "Technologies/Node.js",
-    "Node.j",
+    "Miscellaneous/Alberta Driver's Study Guide.md",
+    "Technologies/React/react.dev.md",
+    "Technologies/React/Index.md",
+    "Miscellaneous/Life/Index.md",
+    "Technologies/React/W3S.md",
+    "Cheat sheet/ReactSheet.md",
+    "Cheat sheet/GitSheet.md",
+    "Certificates/CompTIA A+/Index.md",
+    "Certificates/CompTIA A+",
+    "Version Control/Git & GitHub/Index.md",
+    "Version Control/Git & GitHub",
+    "Backend Languages/Java/Index.md",
+    "Backend Languages/Java",
+    "Backend Languages/C/Index.md",
+    "Backend Languages/C",
+    "Backend Languages/Csharp/Index.md",
+    "Backend Languages/Csharp",
+    "Backend Languages/C++/Index.md",
+    "Backend Languages/C++",
+    "Backend Languages/Python/Index.md",
+    "Backend Languages/Python",
+    "Frontend Languages/JavaScript/Index.md",
+    "Frontend Languages/CSS/Index.md",
+    "Frontend Languages/HTML/Index.md",
+    "Frontend Languages/JavaScript",
     "Frontend Languages/HTML",
-    "HTML"
+    "Frontend Languages/CSS",
+    "Technologies/Next.js/Index.md",
+    "Technologies/Node.js/Index.md",
+    "Technologies/Next.js/W3S.md",
+    "Miscellaneous/Life/Life (the only thing I can actual hate with my entire being).md",
+    "Miscellaneous/Life/Almost died or tried to (chorological order).md",
+    "MyNotes.md",
+    "Miscellaneous/Life/Principle.md",
+    "Version Control/Git & GitHub.md",
+    "Technologies/React.md",
+    "Untitled.canvas"
   ]
 }

@@ -1,27 +1,27 @@
 **Frontend Languages**
-	[[HTML]]
-	[[CSS]]
-	[[JavaScript]]
+	[HTML](Frontend%20Languages/HTML/Index.md)
+	[CSS](Frontend%20Languages/CSS/Index.md)
+	[JavaScript](Frontend%20Languages/JavaScript/Index.md)
 
 **Backend Languages**
-	[[Python]]
-	[[C++]]
-	[[C#]]
-	[[C]]
-	[[Java]]
+	[Python](Backend%20Languages/Python/Index.md)
+	[C++](Backend%20Languages/C++/Index.md)
+	[Csharp](Backend%20Languages/Csharp/Index.md)
+	[C](Backend%20Languages/C/Index.md)
+	[Java](Backend%20Languages/Java/Index.md)
 
 **Technologies**
-	[[React]]
-	[[Next.js]]
-	[[Node.js]]
+	[React](Technologies/React/Index)
+	[Next.js](Technologies/Next.js/Index)
+	[Node.js](Technologies/Node.js/Index)
 
-Version Control
-	[[Git & GitHub]]
+**Version Control**
+	[Git & GitHub](Version%20Control/Git%20&%20GitHub/Index)
 
-Certificates
-	[[CompTIA A+]]
+**Certificates**
+	[CompTIA A+](Certificates/CompTIA%20A+/Index)
 
-Courses
+**Courses**
 
 |  SL No.   |                      Course Title                       | Platfort |  Repo   | Start Date |  End Date  |
 | :-------: | :-----------------------------------------------------: | :------: | :-----: | :--------: | :--------: |
@@ -32,4 +32,5 @@ Courses
 **Miscellaneous**
 	[[Phonetic alphabets]]
 	[[French]]
-	[[Driver’s Knowledge Test]]
+	[Life](Miscellaneous/Life/Index)
+	[[Alberta Driver's Study Guide]]

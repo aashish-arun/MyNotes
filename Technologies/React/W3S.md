@@ -1,5 +1,5 @@
 
-[[Reactsheet]]
+[[ReactSheet]]
 
 ##
 ## ES6 (ECMAScript 6)
